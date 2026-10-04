@@ -1,2 +1,2 @@
 # Demo-Github
-Repositorio de pruebas para GitHub
+Repositorio de pruebas para GitHub en modo académico.
